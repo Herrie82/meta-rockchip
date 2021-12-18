@@ -25,6 +25,7 @@ WICVARS:append = " \
 	RK_CONSOLE_DEVICE \
 	SPL_BINARY \
 	UBOOT_SUFFIX \
+	WKS_CONSOLE_PARAMS \
 	"
 
 # Do not update fstab file while creating wic images
